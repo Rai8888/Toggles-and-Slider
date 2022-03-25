@@ -1,1 +1,1 @@
-# Toggles and Slider tutorials and tasks Jyldyz Academy
+### Toggles and Slider Workshop and practice Jyldyz Academy
